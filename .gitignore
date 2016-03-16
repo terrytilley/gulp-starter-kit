@@ -66,5 +66,7 @@ jspm_packages
 .node_repl_history
 
 # Ignore folders
-node_modules/
-dist/
+node_modules/*
+bower_components/*
+.idea/*
+dist/*
